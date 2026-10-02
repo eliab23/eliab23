@@ -1,15 +1,21 @@
-# Hello, I'm Eliab 👋
+Hi, I'm Eliab 👋
+Software Engineering Student • Full-Stack Developer • AI Enthusiast
 
-A 4th-year Software Engineering student passionate about building modern, user-friendly, and high-quality web applications.
+I'm a 4th-year Software Engineering student focused on building modern, scalable, and user-friendly software.
 
-I enjoy turning ideas into real digital products, improving my frontend engineering skills, and learning practical technologies used in the industry.
+I enjoy turning ideas into real products and continuously improving my skills in web development, backend engineering, Python, and AI/ML.
+
+Currently, I'm building with Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Python, PostgreSQL, and Prisma.
 
 ## About Me
-- Student focused on software engineering and web development
-- Interested in frontend development, UI/UX, and product design
-- Building projects with React, Next.js, and TypeScript
-- Actively learning and improving my problem-solving and software design skills
-- Open to internship opportunities and collaboration on meaningful projects
+🎓 4th-year Software Engineering student
+💻 Focused on full-stack web development
+🤖 Exploring Python, AI & Machine Learning
+🌐 Building applications with Next.js and React
+🗄️ Learning backend development, APIs, databases, and system design
+🧠 Interested in algorithms, problem solving, and software architecture
+📚 Continuously learning and building practical projects
+🤝 Open to collaboration, internships, and meaningful software projects
 
 ## Tech Stack
 - Frontend: Next.js, React, TypeScript, JavaScript
