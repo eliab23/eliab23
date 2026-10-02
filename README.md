@@ -1,4 +1,4 @@
-Hi, I'm Eliab 👋
+# Hi, I'm Eliab 👋
 Software Engineering Student • Full-Stack Developer • AI Enthusiast
 
 I'm a 4th-year Software Engineering student passionate about building modern, scalable, and user-friendly software.
