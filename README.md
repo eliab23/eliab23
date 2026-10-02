@@ -8,14 +8,14 @@ I enjoy turning ideas into real products and continuously strengthening my skill
 Currently, I'm building with Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Python, PostgreSQL, and Prisma.
 
 ## About Me
-🎓 4th-year Software Engineering student
-💻 Focused on full-stack web development
-🤖 Exploring Python, AI, and machine learning
-🌐 Building applications with Next.js and React
-🗄️ Learning backend development, APIs, databases, and system design
-🧠 Interested in algorithms, problem-solving, and software architecture
-📚 Constantly learning and building practical projects
-🤝 Open to collaboration, internships, and meaningful software opportunities
+- 🎓 4th-year Software Engineering student
+- 💻 Focused on full-stack web development
+- 🤖 Exploring Python, AI, and machine learning
+- 🌐 Building applications with Next.js and React
+- 🗄️ Learning backend development, APIs, databases, and system design
+- 🧠 Interested in algorithms, problem-solving, and software architecture
+- 📚 Constantly learning and building practical projects
+- 🤝 Open to collaboration, internships, and meaningful software opportunities
 
 ## Tech Stack
 - Frontend: Next.js, React, TypeScript, JavaScript
